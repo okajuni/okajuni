@@ -20,3 +20,10 @@
 - 👔 Je travail actuellement sur mon bot discord et je fait des mises à jour sur mon site (et peut être une petite application ;) ) 
 # Site : https://okaya.herokuapp.com  
 # Travail : Front end Dev 
+
+
+
+Contact :
+* Discord:  🌺🦦 Okajuni [BC] 🦦🌺#1041 
+* Mail: okajuni-uwu@protonmail.com 
+* Instagram : https://www.instagram.com/okajuni_/
