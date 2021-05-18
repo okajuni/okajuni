@@ -19,7 +19,7 @@
 - 📫 Comment me contacter ? Sur discord (ou par mail disponible sur le site) :D ♡ꔫ🌸꒰Okajuni꒱🌸ꔫ♡#1041
 - 👔 Je travail actuellement sur mon bot discord et je fait des mises à jour sur mon site (et peut être une petite application ;) ) 
 # Site : https://okaya.herokuapp.com  
-# Travail : Front end Dev 
+# Travail : Front end Designer 
 
 
 
